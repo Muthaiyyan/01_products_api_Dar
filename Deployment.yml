@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: products-api
-        image: darin04/products-api:latest
+        image: ephrash1/products-api:latest
         ports:
         - containerPort: 8080
         env:
